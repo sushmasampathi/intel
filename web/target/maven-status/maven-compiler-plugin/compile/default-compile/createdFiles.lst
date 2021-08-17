@@ -1,0 +1,4 @@
+intel\controller\MemberController.class
+intel\util\WebResources.class
+intel\rest\MemberResourceRESTService.class
+intel\rest\JaxRsActivator.class

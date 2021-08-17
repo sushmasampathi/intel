@@ -1,0 +1,5 @@
+intel\data\MemberRepository.class
+intel\service\MemberRegistration.class
+intel\util\Resources.class
+intel\model\Member.class
+intel\data\MemberListProducer.class
